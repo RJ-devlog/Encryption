@@ -1,0 +1,11 @@
+C:\Users\HF\source\repos\Logg\Logg\bin\Debug\Logg.exe.config
+C:\Users\HF\source\repos\Logg\Logg\bin\Debug\Logg.exe
+C:\Users\HF\source\repos\Logg\Logg\bin\Debug\Logg.pdb
+C:\Users\HF\source\repos\Logg\Logg\obj\Debug\Logg.csproj.AssemblyReference.cache
+C:\Users\HF\source\repos\Logg\Logg\obj\Debug\Logg.Form1.resources
+C:\Users\HF\source\repos\Logg\Logg\obj\Debug\Logg.Properties.Resources.resources
+C:\Users\HF\source\repos\Logg\Logg\obj\Debug\Logg.csproj.GenerateResource.cache
+C:\Users\HF\source\repos\Logg\Logg\obj\Debug\Logg.csproj.CoreCompileInputs.cache
+C:\Users\HF\source\repos\Logg\Logg\obj\Debug\Logg.exe
+C:\Users\HF\source\repos\Logg\Logg\obj\Debug\Logg.pdb
+C:\Users\HF\source\repos\Logg\Logg\obj\Debug\Logg.Method.resources
